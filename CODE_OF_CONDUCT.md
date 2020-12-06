@@ -9,6 +9,7 @@ Designated Organizer/Maintainer/Staff:
 - JeanHeyd "ThePhD" Meneide <[wg14@soasis.org](mailto:wg14@soasis.org)>
 
 
+
 ## Anti-Harassment
 
 Harassment includes, but is not limited to:
@@ -25,7 +26,7 @@ Some examples of harassments include:
 - Unwelcome sexual attention;
 - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others;
 - Continued one-on-one communication after requests to cease;
-- Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other GF members or other vulnerable people from intentional abuse;
+- Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other members or other vulnerable people from intentional abuse;
 - Publication of non-harassing private communication that identify individuals;
 - Advocating for, or encouraging, any of the above behavior.
 
