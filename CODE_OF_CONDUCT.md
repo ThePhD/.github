@@ -16,9 +16,9 @@ Harassment includes, but is not limited to:
 
 Verbal comments that reinforce social structures of unfair domination related, but not limited to, to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, and caste.
 
-Some examples of harassments include:
+Some examples of harassment include:
 
-- Sexual images in public spaces;
+- Sexual or inappropriate images in public spaces;
 - Deliberate intimidation, stalking, or following;
 - Harassing photography or recording;
 - Sustained disruption of talks or other events;
@@ -26,6 +26,9 @@ Some examples of harassments include:
 - Unwelcome sexual attention;
 - Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others;
 - Continued one-on-one communication after requests to cease;
+- Name-calling, slurs (racial or otherwise);
+- Hate speech directed at a marginalized or protected group;
+- Patterns of trolling, such as tone-policing, bad faith "just asking" to mask hate speech as legitimate debate, and/or violating another's boundaries;
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other members or other vulnerable people from intentional abuse;
 - Publication of non-harassing private communication that identify individuals;
 - Advocating for, or encouraging, any of the above behavior.
@@ -108,7 +111,7 @@ Part of the Code of Conduct is ensuring that, if violations happens, they are ad
 - the severity of what happened;
 - the number of individuals involved;
 - the staff member spoken to or the means of contact; and
-- any action taken to address the situation and help the victim.
+- any action taken to address the situation and help the affected person or people.
 
 This ensures that attendees know exactly how problems are handled, and so that everyone involved in working in this space or at an in-person event has confidence their problems are handled, even if reports are submitted anonymously.
 
