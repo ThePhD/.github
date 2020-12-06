@@ -1,6 +1,6 @@
 # The Code
 
-We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, caste, or religion. We do not tolerate harassment of participants, maintainers, and/or organizers, in any form. For in-person events, sexual language and imagery is not appropriate for any venue, including talks. In-person event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers, and egregious violations will result in a ban from the space entirely.
+We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, caste, or religion. We do not tolerate harassment of participants, maintainers, and/or organizers, in any form. For in-person events, sexual language and imagery is not appropriate for any venue, including talks. In-person event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers, and egregious violations will result in a ban from the space entirely. Online participants violating these rules may be barred from participating in the associated spaces.
 
 Our [anti-harassment policy](#anti-harassment) can be found below.
 
