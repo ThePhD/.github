@@ -1,15 +1,15 @@
-# The Code {#code}
+# The Code
 
 We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, caste, or religion. We do not tolerate harassment of participants, maintainers, and/or organizers, in any form. For in-person events, sexual language and imagery is not appropriate for any venue, including talks. In-person event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers, and egregious violations will result in a ban from the space entirely.
 
-Our [anti-harassment policy](#code-harassment) can be found below.
+Our [anti-harassment policy](#anti-harassment) can be found below.
 
 Designated Organizer/Maintainer/Staff:
 
 - JeanHeyd "ThePhD" Meneide <[wg14@soasis.org](mailto:wg14@soasis.org)>
 
 
-## Anti-Harassment {#code-harassment}
+## Anti-Harassment
 
 Harassment includes, but is not limited to:
 
@@ -29,11 +29,11 @@ Some examples of harassments include:
 - Publication of non-harassing private communication that identify individuals;
 - Advocating for, or encouraging, any of the above behavior.
 
-We do not condone these behaviors and if someone is found engaging in these policies, they will be asked to stop. If they do not stop, then [Enforcement](#code-enforcement) actions will be taken.
+We do not condone these behaviors and if someone is found engaging in these policies, they will be asked to stop. If they do not stop, then [Enforcement](#enforcement) actions will be taken.
 
 
 
-## Examples of Good Behavior {#code-good}
+## Examples of Good Behavior
 
 There are many ways you can engage professionally and positively with your fellow community members.
 
@@ -46,7 +46,7 @@ There are many ways you can engage professionally and positively with your fello
 
 
 
-## Scope {#code-scope}
+## Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues. This includes online and in-person, as well as in all one-on-one communications pertaining to community business and/or actions.
 
@@ -54,18 +54,18 @@ Actions outside of events or dedicated online spaces that demonstrate that a per
 
 
 
-## Enforcement {#code-enforcement}
+## Enforcement
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-In-person events, specifically: exhibitors in the expo hall, sponsor booths, vendor booths, or similar activities are also subject to the [anti-harassment policy](#code-harassment). In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+In-person events, specifically: exhibitors in the expo hall, sponsor booths, vendor booths, or similar activities are also subject to the [anti-harassment policy](#anti-harassment)). In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 In general: if a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the repository or event, **with no refund or redress for related expenses, if any**.
 
 Organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. Participants are expected to follow these rules at all event venues and event-related social activities. (We also think people should follow these rules outside event activities too!)
 
 
-### Exceptions {#code-enforcement-exceptions}
+### Exceptions
 
 Discussion or images related to discriminatory language and practices is welcome if it **meets all of the following criteria**:
 
@@ -78,7 +78,7 @@ This exception specifically does not allow use of gratuitous sexual or uncensore
 
 
 
-## Reporting {#code-reporting}
+## Reporting
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible.
 
@@ -88,10 +88,10 @@ In general: if you witness unacceptable behavior, or have any other concerns, pl
 
 Harassment and other code of conduct violations reduce the value of our online and offline work and events for everyone. We want you to enjoy our work and experience unfettered professional growth. People like you make this a better place, and therefore we do not accept violations of the Code of Conduct.
 
-You can make a report [personally](#code-reporting-personal) if something goes wrong.
+You can make a report [personally](#personal-reporting) if something goes wrong.
 
 
-### Reporting {#code-reporting-personal}
+### Personal Reporting
 
 You can make a personal report by sending an e-mail to the designated contact person above or by sending an e-mail to one of the designated maintainers at the top of this file. You may also directly speak with a Staff member when one is available during the event. Staff members will be clearly marked by a special symbol and their names published for the duration of the event. A phone number will be available during in-person events. This phone number will be continuously monitored for the duration of any in-person events.
 
@@ -99,7 +99,7 @@ When taking a personal report for in-person events, staff will ensure you are sa
 
 
 
-## Accountability {#code-accountability}
+## Accountability
 
 Part of the Code of Conduct is ensuring that, if violations happens, they are addressed by Staff in a timely and appropriate manner. By the end of every year for online interactions and shortly after any in-person or online event has ended, a list of any violations will be published. Identifying information will be removed. The incident list, for each violation, will include:
 
@@ -112,7 +112,7 @@ Part of the Code of Conduct is ensuring that, if violations happens, they are ad
 This ensures that attendees know exactly how problems are handled, and so that everyone involved in working in this space or at an in-person event has confidence their problems are handled, even if reports are submitted anonymously.
 
 
-### Addressing Grievances {#code-accountability-grievances}
+### Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the staff or the event organizers with a concise description of your grievance. Your grievance will be handled in accordance with the code of conduct.
 
