@@ -16,7 +16,7 @@ Feel free to [get in touch with us](https://soasis.org/contact/opensource/) if y
 
 # Support in General
 
-A lot of my work is done out in the open, generally made open-source and freely available. If you like this project or any of the projects in [my portfolio](https://thephd.github.io/portfolio/) – in particular my open-source projects for [Lua](https://sol2.readthedocs.io/en/latest/), [Unicode](https://thephd.github.io/portfolio/text), [C and C++ Standardization](https://thephd.github.io/portfolio/standard), and more – feel free to use any of the means below to support the projects.
+A lot of my work is done out in the open, generally made open-source and freely available. If you like this project or any of the projects in [my portfolio](https://thephd.dev/portfolio/) – in particular my open-source projects for [Lua](https://sol2.readthedocs.io/en/latest/), [Unicode](https://thephd.dev/portfolio/text), [C and C++ Standardization](https://thephd.dev/portfolio/standard), and more – feel free to use any of the means below to support the projects.
 
 For business inquiries whose revenue can help support the projects, visit the [Shepherd’s Oasis website](https://soasis.org/)!
 
